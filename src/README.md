@@ -35,3 +35,11 @@ ESCRIURE resultat[i]
 FI_PER
 
 FI
+
+
+Índice i	a[i]	b[i]	resultat[i]
+   0	      1	      5	        6
+   1 	      2	     -2	        0
+   2	      3	      0	        3
+   3	      4	      6	        10
+   4	      5	      1	        6
